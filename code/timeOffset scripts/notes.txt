@@ -1,0 +1,7 @@
+step 1: add same amount of delaY TO CSIRS packets
+step2: change the location of ue in the cell in a grid of differents positions. (heat map would be nice)
+step3: for different positions of ue base line is no delay, do 100ns, 1us, 5us, 10us.
+step4: fix ue equal distance from bvoth gnb and repeat from 0 to 10us but in steps of 100ns.
+step5: same as step4, with difference of scs, for 30kh --> 15khz, 15khz ---> 30khz 
+
+ (heat map would be nice) for 2,3
